@@ -1,0 +1,8 @@
+public class CalculatorMult {
+    // Autres méthodes de la calculatrice...
+
+    public int multiply(int a, int b) {
+        // Implémentation temporaire
+        return 0;
+    }
+}
